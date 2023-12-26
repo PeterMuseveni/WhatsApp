@@ -1,0 +1,9 @@
+.sidepane {
+    width: 350px;
+    background: #ffffff;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* overflow-y:scroll; */
+}

@@ -1,0 +1,9 @@
+.sideicons {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    width: 50%; 
+    font-size: 25px;
+    color: #54656f;
+    cursor: pointer;
+}
